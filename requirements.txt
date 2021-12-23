@@ -1,0 +1,8 @@
+tensorflow
+keras
+pandas
+scikit-learn
+streamlit
+streamlit-authenticator
+Pillow
+silence_tensorflow
